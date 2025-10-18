@@ -7,7 +7,7 @@
 源文件：<br>
 1. [hello.c](https://github.com/m903412605-max/-/blob/main/hello.c "我忙了一下午晚上还得回来听培训")
 2. [exchange.c](https://github.com/m903412605-max/-/blob/main/exchange.c "七点半回来都没赶上吃饭我就开始听培训，于是我点了个外卖")
-3. [链表.c](https://github.com/m903412605-max/-/blob/main/%E9%93%BE%E8%A1%A8.c "我等了一个半小时外卖，取回来边听边吃")<
+3. [链表.c](https://github.com/m903412605-max/-/blob/main/%E9%93%BE%E8%A1%A8.c "我等了一个半小时外卖，取回来边听边吃")
 
 <br>
 编译图片:<br>
